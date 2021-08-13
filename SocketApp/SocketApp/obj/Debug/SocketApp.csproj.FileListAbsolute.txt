@@ -1,0 +1,6 @@
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\SocketApp\SocketApp\obj\Debug\SocketApp.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\SocketApp\SocketApp\obj\Debug\SocketApp.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\SocketApp\SocketApp\bin\Debug\SocketApp.dll
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\SocketApp\SocketApp\bin\Debug\SocketApp.pdb
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\SocketApp\SocketApp\obj\Debug\SocketApp.dll
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\SocketApp\SocketApp\obj\Debug\SocketApp.pdb

@@ -1,0 +1,26 @@
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\bin\Debug\Server_Chat.exe.config
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\bin\Debug\Server_Chat.exe
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\bin\Debug\Server_Chat.pdb
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\obj\Debug\Server_Chat.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\obj\Debug\Server_Chat.Form1.resources
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\obj\Debug\Server_Chat.Properties.Resources.resources
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\obj\Debug\Server_Chat.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\obj\Debug\Server_Chat.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\obj\Debug\Server_Chat.exe
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\obj\Debug\Server_Chat.pdb
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\bin\Debug\SocketApp.dll
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\bin\Debug\SocketApp.pdb
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Laptrinhm\Server_Chat\Server_Chat\obj\Debug\Server_Chat.csproj.CopyComplete
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\bin\Debug\Server_Chat.exe.config
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\bin\Debug\Server_Chat.exe
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\bin\Debug\Server_Chat.pdb
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\bin\Debug\SocketApp.dll
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\bin\Debug\SocketApp.pdb
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\obj\Debug\Server_Chat.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\obj\Debug\Server_Chat.Form1.resources
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\obj\Debug\Server_Chat.Properties.Resources.resources
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\obj\Debug\Server_Chat.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\obj\Debug\Server_Chat.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\obj\Debug\Server_Chat.csproj.CopyComplete
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\obj\Debug\Server_Chat.exe
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\MyData\BaiTapLon\BTL_LAP TRINH MANG\Server_Chat\Server_Chat\obj\Debug\Server_Chat.pdb

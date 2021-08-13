@@ -1,0 +1,41 @@
+﻿<Window x:Class="Client_Chat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client_Chat"
+        mc:Ignorable="d"
+        FontSize="14"
+         ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Title="Login" Height="231.459" Width="467.344" >
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Đăng nhập" FontSize="40" FontWeight="Bold" HorizontalAlignment="Center"></TextBlock>
+            <Grid Margin="10 15">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.3*"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition Height="10"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="Tên đăng nhập" Grid.Column="0" Grid.Row="0"></TextBlock>
+                <TextBox  x:Name="txbUsername" Grid.Column="1" Grid.Row="0"></TextBox>
+
+                <TextBlock Text="Mật khẩu" Grid.Column="0" Grid.Row="2"></TextBlock>
+                <PasswordBox x:Name="passwdBox"  Grid.Column="1" Grid.Row="2"></PasswordBox>
+            </Grid>
+
+            <Grid>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button x:Name="btnLogin" IsDefault="True" Content="Đăng nhập" FontSize="16" Margin="10 10" Width="100" Height="32" Click="BtnLogin_Click"></Button>
+                    <Button x:Name="btnExit" IsCancel="True" Content="Thoát" FontSize="16" Margin="10 10" Width="100"  Height="32" Click="BtnExit_Click"></Button>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>
